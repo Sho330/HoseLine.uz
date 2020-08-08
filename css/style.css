@@ -1615,6 +1615,9 @@ img {
 }
 
 @media screen and (max-width: 560px) {
+	.why .container .why__items .why__items-item .why__item-text {
+		text-align: center;
+	}
   .header__logo {
     width: calc(25% - 30px);
   }
